@@ -1,0 +1,9 @@
+c:\users\soerahmat\documents\visual studio 2015\Projects\P4_2_1204017\P4_2_1204017\bin\Debug\P4_2_1204017.exe.config
+c:\users\soerahmat\documents\visual studio 2015\Projects\P4_2_1204017\P4_2_1204017\bin\Debug\P4_2_1204017.exe
+c:\users\soerahmat\documents\visual studio 2015\Projects\P4_2_1204017\P4_2_1204017\bin\Debug\P4_2_1204017.pdb
+c:\users\soerahmat\documents\visual studio 2015\Projects\P4_2_1204017\P4_2_1204017\obj\Debug\P4_2_1204017.csprojResolveAssemblyReference.cache
+c:\users\soerahmat\documents\visual studio 2015\Projects\P4_2_1204017\P4_2_1204017\obj\Debug\P4_2_1204017.Form1.resources
+c:\users\soerahmat\documents\visual studio 2015\Projects\P4_2_1204017\P4_2_1204017\obj\Debug\P4_2_1204017.Properties.Resources.resources
+c:\users\soerahmat\documents\visual studio 2015\Projects\P4_2_1204017\P4_2_1204017\obj\Debug\P4_2_1204017.csproj.GenerateResource.Cache
+c:\users\soerahmat\documents\visual studio 2015\Projects\P4_2_1204017\P4_2_1204017\obj\Debug\P4_2_1204017.exe
+c:\users\soerahmat\documents\visual studio 2015\Projects\P4_2_1204017\P4_2_1204017\obj\Debug\P4_2_1204017.pdb
